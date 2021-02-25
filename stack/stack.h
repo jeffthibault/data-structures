@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  Stack
-//
-//  Created by Jeff Thibault on 10/17/19.
-//  Copyright © 2019 Jeff Thibault. All rights reserved.
-//
-
 #include "LinkedList.h"
 
 template <typename T> class Stack {
